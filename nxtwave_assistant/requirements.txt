@@ -4,6 +4,9 @@ langchain-groq
 langchain-openai
 langchain-community
 langchain-ollama
+langchain-chroma
 chromadb
 langsmith
 pypdf
+python-dotenv
+langgraph
