@@ -3,6 +3,7 @@ langchain
 langchain-groq
 langchain-openai
 langchain-community
+langchain-ollama
 chromadb
 langsmith
 pypdf
