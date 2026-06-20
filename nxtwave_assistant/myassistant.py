@@ -26,7 +26,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.tools import tool
-from langchain.agents import create_agent
+from langgraph.prebuilt import create_react_agent as create_agent
 from langgraph.checkpoint.memory import MemorySaver
 
 # Optional LangSmith client (may not be installed)
