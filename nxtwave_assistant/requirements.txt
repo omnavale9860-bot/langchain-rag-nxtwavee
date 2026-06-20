@@ -5,7 +5,7 @@ langchain-openai
 langchain-community
 langchain-ollama
 langchain-chroma==0.1.4
-chromadb==0.5.23
+chromadb>=0.5.0,<0.6.0
 langsmith
 pypdf
 python-dotenv
